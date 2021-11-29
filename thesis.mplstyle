@@ -1,0 +1,15 @@
+figure.figsize : 8,3.5
+figure.dpi : 120
+
+figure.autolayout : False
+figure.constrained_layout.use : True
+
+savefig.dpi : 250
+savefig.pad_inches : 0.1
+
+
+text.usetex : False
+mathtext.fontset :  stixsans
+
+axes.labelsize : 11
+legend.fancybox : True
